@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔨 I’m currently working on Winitech <br>
+🔨 I’m currently working on NewLayer <br>
 🌱 I’m currently learning Rest Api / Spring / Oracle DB / JavaScript
 
 

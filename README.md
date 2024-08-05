@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔨 I’m currently working on NewLayer <br>
-🌱 I’m currently learning Rest Api / Spring / Oracle DB / JavaScript
-
+🌱 I’m currently learning Algorithm for C++
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimNakHyun&show_icons=true&theme=tokyonight&layout=compact&locale=kr)
 
